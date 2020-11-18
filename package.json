@@ -1,7 +1,6 @@
 {
-  "name": "my-app",
+  "name": "sandox",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
@@ -41,7 +40,6 @@
     ]
   },
   "publishConfig": {
-    "access": "restricted",
-    "registry": "https://npm.pkg.github.com/l/stephanieschustermann/sandox"
+    "registry": "https://npm.pkg.github.com/l/stephanieschustermann/"
   }
 }
