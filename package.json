@@ -40,6 +40,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/l/stephanieschustermann/"
+    "registry": "https://npm.pkg.github.com/l/stephanieschustermann/sandox"
   }
 }
