@@ -39,7 +39,13 @@
       "last 1 safari version"
     ]
   },
+  "author": "Stephanie Schustermann",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanieschustermann/sandox.git"
+  },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/l/stephanieschustermann/sandox"
+    "registry": "https://npm.pkg.github.com/stephanieschustermann"
   }
 }
