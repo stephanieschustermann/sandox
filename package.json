@@ -46,6 +46,6 @@
     "url": "git+https://github.com/stephanieschustermann/sandox.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/stephanieschustermann"
+    "registry": "https://npm.pkg.github.com/@stephanieschustermann"
   }
 }
